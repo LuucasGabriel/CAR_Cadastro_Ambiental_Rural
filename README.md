@@ -16,6 +16,15 @@ O painel foi desenvolvido para:
 
 ---
 
+## 🧩Preparação e Tratamento dos Dados
+Os dados utilizados neste projeto foram obtidos a partir do Portal de Dados Abertos do Governo Federal (dados.gov.br), que contém informações do Cadastro Ambiental Rural (CAR) de todos os municípios e estados brasileiros.
+Para otimizar a análise e concentrar o estudo na Regional de Tupã (SP), foram desenvolvidos dois scripts em Python utilizando a biblioteca pandas:
+
+  - Filtragem geográfica: Um script para extrair apenas os registros dos municípios de interesse e do estado de São Paulo, reduzindo significativamente o tamanho da base.
+  - Padronização de formato numérico: Um segundo script foi criado para corrigir e padronizar as casas decimais das colunas de área (em hectares), garantindo consistência nos cálculos dentro do Power BI.
+
+Esses processos de pré-tratamento foram fundamentais para garantir a integridade e a performance da análise no Power BI.
+---
 ## 🧭 Principais Análises Realizadas
 
 ### 🔹 Visão Geral
