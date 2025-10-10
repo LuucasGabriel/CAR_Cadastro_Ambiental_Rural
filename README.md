@@ -37,9 +37,9 @@ Para otimizar a análise e concentrar o estudo na Regional de Tupã (SP), foram 
 
 ### 🔹 Área Consolidada
 - Indicador da **% de área consolidada** e sua **classificação ambiental**:
-  > 70% — Alta Consolidação (maior pressão ambiental)
-  30–70% — Equilíbrio entre produção e preservação
-  < 30% — Baixa Consolidação (maior conformidade ambiental)
+  - > 70% — Alta Consolidação (maior pressão ambiental)
+  - 30–70% — Equilíbrio entre produção e preservação
+  - < 30% — Baixa Consolidação (maior conformidade ambiental)
 - Gráfico de rosca com a % por classificação.
 
 ### 🔹 Reserva Legal (RL)
