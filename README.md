@@ -109,6 +109,10 @@ SUMX(
 Abaixo estão algumas prévias do dashboard desenvolvido:
 
 <p align="center">
+  <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Introdu%C3%A7%C3%A3o.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Vis%C3%A3o%20Geral.png?raw=true" width="800"/>
 </p>
 
@@ -116,20 +120,14 @@ Abaixo estão algumas prévias do dashboard desenvolvido:
   <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Vis%C3%A3o%20Geral(Detalhamento).png?raw=true" width="800"/>
 </p>
 
+  
 <p align="center">
   <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Tool_tip(%C3%81rea%20Consolidada).png?raw=true" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Tool_tip(Situa%C3%A7%C3%A3o%20Ambiental).png?raw=true" width="800"/>
-</p>
 
 <p align="center">
   <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Reserva%20Legal.png?raw=true" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Rank%20de%20Propriedades%20Rurais.png?raw=true" width="800"/>
 </p>
 
 <p align="center">
@@ -137,19 +135,19 @@ Abaixo estão algumas prévias do dashboard desenvolvido:
 </p>
 
 <p align="center">
+  <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Tool_tip(Situa%C3%A7%C3%A3o%20Ambiental).png?raw=true" width="800"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/PRA%20-%20Programa%20de%20Regulariza%C3%A7%C3%A3o%20Ambiental.png?raw=true" width="800"/>
 </p>
 
 <p align="center">
-  <img src="" width="800"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Introdu%C3%A7%C3%A3o.png?raw=true" width="800"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/An%C3%A1lises%20Extras.png?raw=true" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/CAR_Cadastro_Ambiental_Rural/blob/main/IMG/Rank%20de%20Propriedades%20Rurais.png?raw=true" width="800"/>
 </p>
 
 ---
