@@ -23,7 +23,7 @@ Para otimizar a análise e concentrar o estudo na Regional de Tupã (SP), foram 
   - Filtragem geográfica: Um script para extrair apenas os registros dos municípios de interesse e do estado de São Paulo, reduzindo significativamente o tamanho da base.
   - Padronização de formato numérico: Um segundo script foi criado para corrigir e padronizar as casas decimais das colunas de área (em hectares), garantindo consistência nos cálculos dentro do Power BI.
 
-Esses processos de pré-tratamento foram fundamentais para garantir a integridade e a performance da análise no Power BI.
+  Esses processos de pré-tratamento foram fundamentais para garantir a integridade e a performance da análise no Power BI.
 ---
 ## 🧭 Principais Análises Realizadas
 
@@ -37,7 +37,7 @@ Esses processos de pré-tratamento foram fundamentais para garantir a integridad
 
 ### 🔹 Área Consolidada
 - Indicador da **% de área consolidada** e sua **classificação ambiental**:
-  - >70% — Alta Consolidação (maior pressão ambiental)
+  - > 70% — Alta Consolidação (maior pressão ambiental)
   - 30–70% — Equilíbrio entre produção e preservação
   - <30% — Baixa Consolidação (maior conformidade ambiental)
 - Gráfico de rosca com a % por classificação.
