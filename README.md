@@ -195,6 +195,4 @@ Todos os dados utilizados são **públicos**, porém os **números de registro C
 
 ## 👨‍💻 Autor
 **Lucas Gabriel**  
-💼 Profissional de Análise de Dados e Power BI  
-📍 Regional de Tupã/SP  
-📧 [Insira seu e-mail ou LinkedIn aqui]
+
